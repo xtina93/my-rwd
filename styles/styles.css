@@ -18,6 +18,7 @@ body {
 #page-wrapper {
   background-color: white; 
   width: 768px; 
+  margin: 0 auto; 
 }
 
 #content {
