@@ -1,0 +1,44 @@
+/**
+*===================================================
+*  styles.css -- Global styles for the MyRWD website 
+*===================================================
+*
+* Created November 12, 2014
+*
+* Authored by Cristina Boyle
+*
+*/
+
+/* ----- Basic styling ----- */
+
+body {
+  background-color: lightblue; 
+}
+
+#page-wrapper {
+  background-color: white; 
+  width: 768px; 
+}
+
+#content {
+  background-color: #f7f2da;
+  padding-top: 0em;
+  padding-right: 1em;
+  padding-bottom: 0em;
+  padding-left: 1em;  
+  margin-bottom: 10px;
+}
+
+nav {
+  background-color: gray;
+  padding-top: 0em;
+  padding-right: 0em;
+  padding-bottom: 0em;
+  padding-left: 0em; 
+  margin: 0px; 
+}
+
+nav ul {
+  padding: 3px 10px;
+  list-style-type: none;
+}
