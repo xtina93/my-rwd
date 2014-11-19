@@ -43,3 +43,9 @@ nav ul {
   padding: 3px 10px;
   list-style-type: none;
 }
+
+/* ----- Nav Bar ----- */
+
+nav ul li {
+  display: inline-block;
+}
