@@ -28,7 +28,6 @@ body {
   padding-bottom: 0em;
   padding-left: 1em;  
   margin-bottom: 10px; 
-  clear: both; 
 }
 
 nav {
@@ -45,16 +44,16 @@ nav ul {
   list-style-type: none;
 }
 
-/* ----- Left-Sided Nav Menu ----- */
+/* ----- Right-Sided Nav Menu ----- */
 
 nav {
-  float: left;
+  float: right;
   width: 175px; 
   box-sizing: border-box;  
 }
 
 #content {
-  float: left;
+  float: right;
   width: 593px; 
   box-sizing: border-box; 
 }
