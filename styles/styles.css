@@ -27,7 +27,8 @@ body {
   padding-right: 1em;
   padding-bottom: 0em;
   padding-left: 1em;  
-  margin-bottom: 10px;
+  margin-bottom: 10px; 
+  clear: both; 
 }
 
 nav {
@@ -44,8 +45,16 @@ nav ul {
   list-style-type: none;
 }
 
-/* ----- Nav Bar ----- */
+/* ----- Left-Sided Nav Menu ----- */
 
-nav ul li {
-  
+nav {
+  float: left;
+  width: 175px; 
+  box-sizing: border-box;  
+}
+
+#content {
+  float: left;
+  width: 593px; 
+  box-sizing: border-box; 
 }
